@@ -12,7 +12,7 @@ Docker Engine (24.0.7) or Docker Desktop
 
 Clone this git repository:
 
-`git clone https://github.com/LMtx/ansible-lab-docker.git`
+`git clone https://github.com/roopeshsn/ansible-lab-docker.git`
 
 ## Build images and run containers
 
